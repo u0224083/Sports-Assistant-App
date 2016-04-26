@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">運動小幫手</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="introduction">　　一般人對於運動的了解，不外乎促進健康、減重，甚至拓展社交生活。但運動對於身心產生的長期影響，可能遠遠超出妳的想像。\n""　　這個APP可以計算你運動時所花費的時間、速度和消耗的卡路里，還可以紀錄您所跑步的路徑，但時速4km/hr以下無法計算。\n\n""操作說明 : 進入後請開啟GPS->抓到您的座標->按下”時間開始”\n結束後按下”時間停止”上面就會顯示您這次運動消耗的卡路里。</string>
+    <string name="app_name4">運動小幫手</string>
+
+    <string name="table_form_title">對照表</string>
+    <string name="sport">此表為跑步時的速度與一分鐘所消耗的卡路里，例如：時速為9 km時，一分鐘所消耗的卡路里為11 kcals。</string>
+    <string name="u0224105"> 班級:資管三A\n姓名:楊子寬\n學號:0224105</string>
+    <string name="u0224083"> 班級:資管三A\n姓名:孫豪\n學號:0224083</string>
+    <string name="u0224051"> 班級:資管三A\n姓名:歐鴻君\n學號:0224051</string>
+</resources>
