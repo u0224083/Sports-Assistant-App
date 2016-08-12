@@ -12,7 +12,7 @@ practice how to use google map API.
 ####進入跑步模式載入Google地圖
 ![screenshot_2016-01-10-20-45-57](https://cloud.githubusercontent.com/assets/11186031/17612657/310fcb10-6087-11e6-8351-8faf6ba2970f.png)
 <br><hr>
-####裝置移動時繪出移動路徑
+####按下開始計時並即時繪出移動路徑
 ![mapline](https://cloud.githubusercontent.com/assets/11186031/17612646/fc34d638-6086-11e6-95d2-2c16d9e215de.png)
 <br><hr>
 ####卡路里消耗參照表
