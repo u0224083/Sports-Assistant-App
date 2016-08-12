@@ -4,7 +4,10 @@ practice how to use google map API.
 
 ##運動小幫手APP
 這是大三上學期APP課程的期末作品，開發這個APP動機，是想練習google map
-的API，和同學一起撰寫完成的。<br><br><hr><br><br>
+的API，和同學一起撰寫完成的。
+<br>
+###開發工具：Android Studio
+<hr><br><br>
 
 ####實作NavigationBar
 ![screenshot_2016-01-10-19-50-39](https://cloud.githubusercontent.com/assets/11186031/17612655/310ab558-6087-11e6-926a-75ae6e5117da.png)
